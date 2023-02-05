@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arduinoz-R-Awsome
 - 👀 I’m interested in learning what arduinos can do
-- 🌱 I’m currently learning Python, Arduino C++, Scratch
+- 🌱 I’m currently working on Python, Arduino C++, maybe java?
 
 
 <!---
